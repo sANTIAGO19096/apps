@@ -1,0 +1,8 @@
+#lienzo {
+    background-color: aquamarine;
+}
+body {
+    background-image: url("bg1.jpg");
+    background-size: cover;
+    background-position: center;
+}
